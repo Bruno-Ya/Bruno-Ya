@@ -6,6 +6,8 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Ya&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Ya&hide_progress=true)
+
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
