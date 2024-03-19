@@ -1,6 +1,7 @@
 
 
 ### Olá! Eu sou o Bruno 👋
+### Focado em desenvolvimento mobile com Flutter, pronto para embarcar em desafios e aprender continuamente.
 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-heiji-yamamoto/)
 
